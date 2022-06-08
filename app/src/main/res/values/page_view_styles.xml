@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PageViewDefaultStyle">
+        <item name="pageColor">@android:color/white</item>
+        <item name="textColor">@android:color/black</item>
+        <item name="paragraphPadding">8sp</item>
+        <item name="linePadding">4sp</item>
+        <item name="titlePadding">12sp</item>
+    </style>
+</resources>

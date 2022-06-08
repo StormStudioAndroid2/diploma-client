@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PageView">
+        <attr name="pageColor" format="color" />
+        <attr name="textColor" format="color" />
+        <attr name="paragraphPadding" format="dimension"></attr>
+        <attr name="titlePadding" format="dimension"></attr>
+        <attr name="linePadding" format="dimension"></attr>
+
+    </declare-styleable>
+
+    <attr name="pageViewDefaultAttr" format="reference" />
+</resources>
